@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab2.2</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+</resources>
